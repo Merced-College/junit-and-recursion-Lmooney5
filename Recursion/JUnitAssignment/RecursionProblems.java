@@ -1,3 +1,7 @@
+//Logan Mooneyham
+//4/22/26
+
+
 //1. Given a non-negative int n, compute recursively (no loops) the count of the occurrences 
 // of 8 as a digit, except that an 8 with another 8 immediately to its left counts double, 
 // so 8818 yields 4. Note that mod (%) by 10 yields the rightmost digit (126 % 10 is 6), 
