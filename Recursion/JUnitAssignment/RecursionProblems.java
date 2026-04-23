@@ -58,7 +58,7 @@ public class RecursionProblems {
     }
 
     if (str.startsWith("xhi")) {
-        return countHi2(str.substring(1));
+        return countHi2(str.substring(3)); // FIXED
     }
 
     if (str.startsWith("hi")) {
